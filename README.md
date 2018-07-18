@@ -1,0 +1,2 @@
+# http-linkites.com-why-we-should-learn-blockchain-technology-and-its-importances-
+With the block-chain technology in the financial sector, we can do easily transaction between two countries by taking less time. It can execute commercial transactions and agreements between the user and remove the mediator. Recently everyone is not using it but in future the uses of blockchain will increase and It would create a very high demand for the developers of the blockchain. Blockchain technology can be combine into multiple areas..blockchain also solves the problem of manipulation.
